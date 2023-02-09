@@ -5,8 +5,8 @@
 # For using
 * clone this repo
 * include ```hash_map.h``` header
-* code example: 
-```
+# Code example: 
+```C++
 
 #include <iostream>
 #include "hash_map.h"
