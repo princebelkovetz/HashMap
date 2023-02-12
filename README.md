@@ -1,5 +1,5 @@
 # HashMap
-* implemented very efficient "Robin-Hood hashing" techinque
+* implemented very efficient "Robin-Hood hashing" technique
 * $O(n)$ memory, $O(1)$ per query
 
 # For using
